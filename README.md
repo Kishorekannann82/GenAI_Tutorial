@@ -1,2 +1,9 @@
-Handwritten Notes:
+Fine Tuning Handwritten Notes:
 https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtL2YyZDI4NWRlYWM4YTQxNjk4MjE2YWY1ODdhN2U4YjZjX0JCQTcxNzYyLTEyRTAtNDJFMS1CMzI0LTVCMTMxRjQyNEUzRF8wOWQxYzY2ZS1hZmExLTRjMGUtYTM0MS0xMmIzZTQ3MzYwMTI=
+
+
+## Tokenization Handwritten Notes:
+https://wbd.ms/share/v2/aHR0cHM6Ly93aGl0ZWJvYXJkLm1pY3Jvc29mdC5jb20vYXBpL3YxLjAvd2hpdGVib2FyZHMvcmVkZWVtLzYzNWYxYjlmZmNmMTRmMzlhY2YyMjI5ZTBmY2ZkODA3X0JCQTcxNzYyLTEyRTAtNDJFMS1CMzI0LTVCMTMxRjQyNEUzRF9kM2EzNmRhYy1iZDU3LTRkNmMtYWQzNi0wODBkMGRiOWNjODU=
+
+## Google Transformer Research Paper(2017):
+https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf
